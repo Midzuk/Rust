@@ -1,0 +1,10 @@
+[package]
+name = "haskellers"
+version = "0.1.0"
+authors = ["Mizuki"]
+
+[lib]
+name = "rusty"
+crate-type = ["staticlib"]
+
+[dependencies]
